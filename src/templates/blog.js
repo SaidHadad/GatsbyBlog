@@ -18,7 +18,7 @@ query($slug: String!) {
 `
 
 const Blog = (props) => {
-
+  console.log
   return (
     <Layout>
       <Head title={props.data.contentfulBlogPost.title}/>
