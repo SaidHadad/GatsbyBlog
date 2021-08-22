@@ -1,15 +1,15 @@
 module.exports = {
   plugins: [
-    'gatsby-plugin-react-helmet',
-    `gatsby-plugin-image`,
-    `gatsby-plugin-sharp`,
     {
       resolve: 'gatsby-source-contentful',
       options: {
-        spaceId: process.env.CONTENTFUL_SPACE_ID,
-        accessToken: process.env.CONTENTFUL_ACCESS_TOKEN,
+        spaceId: 'qk0ppvr73vb5',
+        accessToken: 'mzFs1wy_gWmV8AzzTV87X_Eg7bKdiJ6VJaYnMzKXnZY'
       }
     },
+    'gatsby-plugin-react-helmet',
+    `gatsby-plugin-image`,
+    `gatsby-plugin-sharp`,
     `gatsby-plugin-sass`,
     {
       resolve: 'gatsby-source-filesystem',
@@ -32,7 +32,7 @@ module.exports = {
           }
         ]
       }
-    }
+    },
   ],
 
   siteMetadata: {
