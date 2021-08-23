@@ -7,7 +7,7 @@ const contactPage = () => {
     <Layout>
       <Head title="Contact" />
       <h1>Contact Me</h1>
-      <p>Link to my GitHub <a href="https://github.com/SaidHadad" target="_blank" rel="noreferrer">GitHub</a></p>
+      <p>Link to my GitHub <a href="https://github.com/danicota" target="_blank" rel="noreferrer">GitHub</a></p>
     </Layout>
   )
 }
