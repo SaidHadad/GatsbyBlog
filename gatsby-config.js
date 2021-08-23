@@ -36,7 +36,7 @@ module.exports = {
   ],
 
   siteMetadata: {
-    title: 'Personal Blog',
-    author: 'Said Hadad'
+    title: 'Dani-gatby-blog',
+    author: 'Daniela Schwarz'
   }
 }
