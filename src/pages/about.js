@@ -9,7 +9,7 @@ const aboutPage = () => {
     <h1>About me</h1>
       <p>Im a developer with a passion for design!! follow my blog for more information
       </p>
-      <p>Personal <a href="https://danischwarz.com" target="_blank" rel="noreferrer">Portfolio</a></p>
+      <p>Personal <a href="https://saidhadad.github.io/Portfolio/" target="_blank" rel="noreferrer">Portfolio</a></p>
     </Layout>
   )
 }
